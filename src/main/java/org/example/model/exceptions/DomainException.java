@@ -1,7 +1,7 @@
 package org.example.model.exceptions;
 
-public class DomainException extends RuntimeException {
-  public DomainException(String message) {
-    super(message);
-  }
+public class DomainException extends RuntimeException{
+    public DomainException(String message) {
+        super(message);
+    }
 }
